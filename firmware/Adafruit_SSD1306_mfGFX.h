@@ -18,7 +18,7 @@ All text above, and the splash screen must be included in any redistribution
 
 
 #include "application.h"
-#include "Adafruit_SSD1306_mfGFX/firmware/examples/ssd1306_user.h"
+#include "../Adafruit_SSD1306_mfGFX/firmware/examples/ssd1306_user.h"
 
 
 #define BLACK 0
