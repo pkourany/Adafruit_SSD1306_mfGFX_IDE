@@ -1,0 +1,7 @@
+{
+	"name": "Adafruit_SSD1306_mfGFX",
+	"author": "Limor Fried/Ladyada / Paul Kourany",
+	"version": "1.0.0",
+	"license": "BSD License",
+	"description": "Adafruit_SSD1306 display library which uses Adafruit_mfGFX multifont library"
+}
